@@ -1,0 +1,29 @@
+{
+    "$schema": "https://dbclient-release.oss-cn-hongkong.aliyuncs.com/dbclient/schema.json",
+    "database": {
+        "1683767224686": {
+            "host": "127.0.0.1",
+            "port": 1433,
+            "user": "sa",
+            "dbType": "SQLite",
+            "name": "parser.",
+            "timezone": "+00:00",
+            "usingSSH": false,
+            "useSocksProxy": false,
+            "global": false,
+            "savePassword": "Forever",
+            "hideSystemSchema": true,
+            "readonly": false,
+            "sort": 11,
+            "useSSL": false,
+            "dbPath": "/www/wwwroot/dev13media.online/db.sqlite3",
+            "encrypt": true,
+            "authType": "default",
+            "esAuth": "none",
+            "showHidden": true,
+            "srv": false,
+            "key": "1683767224686",
+            "connectionKey": "database.connections"
+        }
+    }
+}
